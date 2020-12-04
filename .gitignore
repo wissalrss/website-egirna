@@ -1,6 +1,5 @@
-_site/assets/main.css
-_site/assets/main.css.map
-_site/about
+_site/
+
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
