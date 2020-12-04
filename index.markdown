@@ -1,4 +1,4 @@
 ---
-layout: page
+layout: underconstruction
 title: Coming soon
 ---
